@@ -1,5 +1,3 @@
-// pong but this time it's bad
-// blame sarene! for this
 var canvas = document.getElementById('canvas');
 var ctx = canvas.getContext('2d');
 
